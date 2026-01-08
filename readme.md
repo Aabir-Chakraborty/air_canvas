@@ -243,7 +243,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## 👥 Authors
 
-- **Aabir Chakraborty** - Thapar Institute of Engineering and Technology
+- **Aabir Chakraborty** - aabirc390@gmail.com
 - **Ashu Sharma** - sharma.ashu204@gmail.com
 
 ## 🙏 Acknowledgments
@@ -257,7 +257,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 For questions, issues, or suggestions:
 - Open an issue on GitHub
-- Email: sharma.ashu204@gmail.com
+- Email: aabirc390@gmail.com, sharma.ashu204@gmail.com
 
 ## 🌐 Links
 
